@@ -1,0 +1,40 @@
+ body {
+        background-color: rgb(244, 236, 237);
+    }
+    .nav-link {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: nowrap;
+    }
+    .hero h1 {
+       
+        letter-spacing: 2px;
+        
+
+
+    }
+
+  .hero .container #of{
+    color:rgb(254, 58, 58);
+  }
+
+
+    .main .container {
+        border-radius: 30px;
+    }
+
+    .main .container .btn-group {
+        border-radius: 30px;
+    }
+
+    .footer ul li {
+        font-size: 12px;
+        line-height: 30px;
+    }
+
+    .footer {
+        background-color: rgb(241, 204, 210);
+        color: #fff;
+    }
+   
